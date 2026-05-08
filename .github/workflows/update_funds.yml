@@ -1,4 +1,4 @@
-name: Fon Verilerini Güncelle
+name: Tum Fonlari Getir
 
 on:
   schedule:
