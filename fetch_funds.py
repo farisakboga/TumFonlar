@@ -12,7 +12,7 @@ except ImportError:
     _HTTP_BACKEND = "requests"
 
 BASE_URL = "https://www.tefas.gov.tr"
-_MIN_REQUEST_INTERVAL = 9.0  # Güvenli hız sınırı
+_MIN_REQUEST_INTERVAL = 9.5  # Güvenli hız sınırı
 _last_request_time = 0.0
 
 def _wait():
@@ -27,17 +27,15 @@ def _get_business_days() -> Tuple[str, str]:
     def is_business_day(date):
         return date.weekday() < 5 # 0-4 arası hafta içi
     
-    # Bugünün verisi henüz çıkmamış olabilir (genelde 11:00'den sonra netleşir)
     current = datetime.now()
+    # Veriler genelde 11:00'den sonra güncellenir
     if current.hour < 11:
         current -= timedelta(days=1)
         
-    # Son iş gününü bul (T)
     while not is_business_day(current):
         current -= timedelta(days=1)
     t_day = current
     
-    # Bir önceki iş gününü bul (T-1)
     t_minus_1 = t_day - timedelta(days=1)
     while not is_business_day(t_minus_1):
         t_minus_1 -= timedelta(days=1)
@@ -54,55 +52,74 @@ def fetch_tefas_data():
         session = _http.Session()
         session.headers.update({"User-Agent": "Mozilla/5.0"})
 
-    # 1. İstek: Fiyatları Al (Bitiş Tarihi Odaklı)
-    print("Fiyatlar çekiliyor...")
-    _wait()
-    res_fiyat = session.post(f"{BASE_URL}/api/funds/fonGnlBlgSiraliGetir", json={
-        "fonTipi": "YAT", "basTarih": t_day, "bitTarih": t_day,
-        "basSira": 1, "bitSira": 2000, "dil": "TR"
-    }).json()
-    fiyat_listesi = res_fiyat.get("resultList", [])
-
-    # 2. İstek: Değişim Yüzdelerini Al (T-1 ile T arası)
-    print("Günlük değişim oranları hesaplanıyor...")
-    _wait()
-    res_getiri = session.post(f"{BASE_URL}/api/funds/fonGetiriBazliBilgiGetir", json={
-        "dil": "TR", "fonTipi": "YAT", "islem": 1,
-        "basTarih": t_minus_1, "bitTarih": t_day,
-        "calismaTipi": 1, "getiriOrani": "1"
-    }).json()
-    getiri_listesi = res_getiri.get("resultList", [])
-
-    # Verileri birleştir
-    getiri_map = {item["fonKodu"]: item.get("getiriOrani", 0) for item in getiri_listesi}
-    
     final_data = []
-    for f in fiyat_listesi:
-        kod = f["fonKodu"]
-        final_data.append({
-            "tarih": f["tarih"],
-            "fon_kodu": kod,
-            "fon_unvani": f["fonUnvan"],
-            "fiyat": f["fiyat"],
-            "degisim": getiri_map.get(kod, 0), # T-1'den T'ye değişim
-            "portfoy_buyuklugu": f.get("portfoyBuyukluk"),
-            "kisi_sayisi": f.get("kisiSayisi")
-        })
     
+    # Üç ana fon grubu: Yatırım Fonları, Emeklilik Fonları, Borsa Yatırım Fonları
+    fon_gruplari = {
+        "YAT": "Yatırım Fonları",
+        "EMK": "Emeklilik Fonları",
+        "BYF": "Borsa Yatırım Fonları"
+    }
+    
+    for fon_tipi, tip_adi in fon_gruplari.items():
+        print(f"\n--- {tip_adi} ({fon_tipi}) çekiliyor ---")
+
+        # 1. İstek: Fiyatları ve Genel Bilgileri Al
+        print(f" > {fon_tipi} fiyat listesi alınıyor...")
+        _wait()
+        res_fiyat = session.post(f"{BASE_URL}/api/funds/fonGnlBlgSiraliGetir", json={
+            "fonTipi": fon_tipi, "basTarih": t_day, "bitTarih": t_day,
+            "basSira": 1, "bitSira": 3000, "dil": "TR"
+        }).json()
+        fiyat_listesi = res_fiyat.get("resultList", [])
+
+        # 2. İstek: Değişim Yüzdelerini Al (T-1 ile T arası)
+        print(f" > {fon_tipi} günlük değişim oranları alınıyor...")
+        _wait()
+        res_getiri = session.post(f"{BASE_URL}/api/funds/fonGetiriBazliBilgiGetir", json={
+            "dil": "TR", "fonTipi": fon_tipi, "islem": 1,
+            "basTarih": t_minus_1, "bitTarih": t_day,
+            "calismaTipi": 1, "getiriOrani": "1"
+        }).json()
+        getiri_listesi = res_getiri.get("resultList", [])
+
+        # Değişimleri kod bazlı eşleştir
+        getiri_map = {item["fonKodu"]: item.get("getiriOrani", 0) for item in getiri_listesi}
+        
+        # Verileri birleştir
+        for f in fiyat_listesi:
+            kod = f["fonKodu"]
+            final_data.append({
+                "tarih": f["tarih"],
+                "fon_kodu": kod,
+                "fon_unvani": f["fonUnvan"],
+                "tip": fon_tipi,
+                "fiyat": f["fiyat"],
+                "degisim": getiri_map.get(kod, 0),
+                "portfoy_buyuklugu": f.get("portfoyBuyukluk"),
+                "kisi_sayisi": f.get("kisiSayisi")
+            })
+            
     return final_data, t_day
 
 if __name__ == "__main__":
     try:
         veriler, dosya_tarihi = fetch_tefas_data()
         
-        dosya_adi = f"funds.json"
+        dosya_adi = "funds.json"
         with open(dosya_adi, "w", encoding="utf-8") as f:
             json.dump(veriler, f, ensure_ascii=False, indent=4)
             
-        print(f"\nBaşarıyla kaydedildi: {dosya_adi}")
-        print(f"Toplam Fon: {len(veriler)}")
+        print("\n" + "="*40)
+        print(f"BAŞARIYLA TAMAMLANDI")
+        print(f"Dosya: {dosya_adi}")
+        print(f"Toplam Fon Sayısı: {len(veriler)}")
         if veriler:
-            print(f"Örnek: {veriler[0]['fon_kodu']} -> Fiyat: {veriler[0]['fiyat']} | Değişim: %{veriler[0]['gunluk_degisim_yuzde']}")
+            # Örnek olarak listenin ortasından veya sonundan bir BYF örneği de gelebilir
+            print(f"Son çekilen kayıttan örnek:")
+            print(f"  Kod: {veriler[-1]['fon_kodu']} ({veriler[-1]['tip']})")
+            print(f"  Fiyat: {veriler[-1]['fiyat']} | Değişim: %{veriler[-1]['degisim']}")
+        print("="*40)
             
     except Exception as e:
-        print(f"Hata oluştu: {e}")
+        print(f"\nİşlem sırasında bir hata oluştu: {e}")
