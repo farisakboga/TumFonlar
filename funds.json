@@ -21695,7 +21695,7 @@
         "fon_unvani": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
         "fiyat": 0.01,
-        "degisim": 0,
+        "degisim": null,
         "portfoy_buyuklugu": 0.01,
         "kisi_sayisi": 0
     },
@@ -23475,7 +23475,7 @@
         "fon_unvani": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. TEMİZ ENERJİ SEKTÖRÜ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
         "fiyat": 0.01,
-        "degisim": 0,
+        "degisim": null,
         "portfoy_buyuklugu": 0.01,
         "kisi_sayisi": 0
     },
