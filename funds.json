@@ -6024,9 +6024,9 @@
         "fon_kodu": "GO2",
         "fon_unvani": "ONE PORTFÖY KATILIM FON SEPETİ FONU",
         "tip": "YAT",
-        "fiyat": 4.674151,
-        "degisim": 0.5402,
-        "portfoy_buyuklugu": 30604255.5,
+        "fiyat": 4.674284,
+        "degisim": 0.543,
+        "portfoy_buyuklugu": 30193475.66,
         "kisi_sayisi": 548
     },
     {
@@ -6994,9 +6994,9 @@
         "fon_kodu": "HDH",
         "fon_unvani": "HEDEF PORTFÖY DOĞU HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 9103.114239,
+        "fiyat": 9102.923325,
         "degisim": 0,
-        "portfoy_buyuklugu": 33749914383.2,
+        "portfoy_buyuklugu": 33669911002.09,
         "kisi_sayisi": 18
     },
     {
@@ -12394,9 +12394,9 @@
         "fon_kodu": "NSH",
         "fon_unvani": "NUROL PORTFÖY İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 2.005953,
-        "degisim": 0.0179,
-        "portfoy_buyuklugu": 1454780568.96,
+        "fiyat": 2.005932,
+        "degisim": 0.0168,
+        "portfoy_buyuklugu": 1454765475.37,
         "kisi_sayisi": 1318
     },
     {
@@ -15354,9 +15354,9 @@
         "fon_kodu": "RLH",
         "fon_unvani": "ROTA PORTFÖY YİRMİNCİ SERBEST FON",
         "tip": "YAT",
-        "fiyat": 1.55206,
+        "fiyat": 1.550596,
         "degisim": 0,
-        "portfoy_buyuklugu": 249810788.11,
+        "portfoy_buyuklugu": 249575149.11,
         "kisi_sayisi": 27
     },
     {
@@ -15402,7 +15402,7 @@
     {
         "tarih": "2026-05-25",
         "fon_kodu": "ROY",
-        "fon_unvani": "ROTA PORTFÖY ONDÖRDÜNCÜ SERBEST FON",
+        "fon_unvani": "ROTA PORTFÖY BİRİNCİ KATILIM SERBEST FON",
         "tip": "YAT",
         "fiyat": 1.275362,
         "degisim": 0,
@@ -18125,7 +18125,7 @@
         "fon_unvani": "VAKIF KATILIM PORTFÖY PARA PİYASASI KATILIM FONU",
         "tip": "YAT",
         "fiyat": 1.011015,
-        "degisim": 0,
+        "degisim": 0.3305,
         "portfoy_buyuklugu": 3033044.1,
         "kisi_sayisi": 1
     },
