@@ -1162,7 +1162,7 @@
     {
         "tarih": "2026-06-02",
         "fon_kodu": "BGH",
-        "fon_unvani": "AZİMUT PORTFÖY BGN SERBEST ÖZEL FON",
+        "fon_unvani": "AZİMUT PORTFÖY BGN HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 2.306625,
         "degisim": 0,
@@ -4874,9 +4874,9 @@
         "fon_kodu": "FSV",
         "fon_unvani": "QNB PORTFÖY KAR PAYI ÖDEYEN SEKİZİNCİ SERBEST (DÖVİZ-AVRO) FON",
         "tip": "YAT",
-        "fiyat": 1,
+        "fiyat": 54,
         "degisim": 0,
-        "portfoy_buyuklugu": 0.01,
+        "portfoy_buyuklugu": 0.54,
         "kisi_sayisi": 876
     },
     {
@@ -5072,7 +5072,7 @@
     {
         "tarih": "2026-06-02",
         "fon_kodu": "FYZ",
-        "fon_unvani": "AZİMUT PORTFÖY AS SERBEST ÖZEL FON",
+        "fon_unvani": "AZİMUT PORTFÖY AS HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 6.183847,
         "degisim": 0,
@@ -8024,9 +8024,9 @@
         "fon_kodu": "IBB",
         "fon_unvani": "İŞ PORTFÖY ATAK DEĞİŞKEN FON",
         "tip": "YAT",
-        "fiyat": 14.78631,
-        "degisim": 0.979,
-        "portfoy_buyuklugu": 1056447209.86,
+        "fiyat": 14.71434,
+        "degisim": 0.4875,
+        "portfoy_buyuklugu": 1051305154.55,
         "kisi_sayisi": 8529
     },
     {
@@ -8632,7 +8632,7 @@
     {
         "tarih": "2026-06-02",
         "fon_kodu": "IJF",
-        "fon_unvani": "AZİMUT PORTFÖY EREN SERBEST ÖZEL FON",
+        "fon_unvani": "AZİMUT PORTFÖY EREN HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 9.819397,
         "degisim": 0,
@@ -13532,7 +13532,7 @@
     {
         "tarih": "2026-06-02",
         "fon_kodu": "PAC",
-        "fon_unvani": "AZİMUT PORTFÖY AC SERBEST ÖZEL FON",
+        "fon_unvani": "AZİMUT PORTFÖY AC HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 3.015418,
         "degisim": 0,
@@ -16452,7 +16452,7 @@
     {
         "tarih": "2026-06-02",
         "fon_kodu": "SYL",
-        "fon_unvani": "AZİMUT PORTFÖY SYH SERBEST ÖZEL FON",
+        "fon_unvani": "AZİMUT PORTFÖY SYH HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 4514.629288,
         "degisim": 0,
@@ -16934,9 +16934,9 @@
         "fon_kodu": "TI4",
         "fon_unvani": "İŞ PORTFÖY TEMKİNLİ DEĞİŞKEN FON",
         "tip": "YAT",
-        "fiyat": 0.060495,
-        "degisim": 0.5535,
-        "portfoy_buyuklugu": 2016225140.75,
+        "fiyat": 0.060341,
+        "degisim": 0.2975,
+        "portfoy_buyuklugu": 2011083085.44,
         "kisi_sayisi": 14899
     },
     {
@@ -17032,7 +17032,7 @@
     {
         "tarih": "2026-06-02",
         "fon_kodu": "TJL",
-        "fon_unvani": "AZİMUT PORTFÖY TAYD SERBEST ÖZEL FON",
+        "fon_unvani": "AZİMUT PORTFÖY TAYD HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 22.162572,
         "degisim": 0,
