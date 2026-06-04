@@ -6712,7 +6712,7 @@
     {
         "tarih": "2026-06-03",
         "fon_kodu": "GZG",
-        "fon_unvani": "GARANTİ PORTFÖY SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
+        "fon_unvani": "GARANTİ PORTFÖY SAĞLIK VE GENETİK TEKNOLOJİLERİ DEĞİŞKEN FON",
         "tip": "YAT",
         "fiyat": 6.137368,
         "degisim": -0.9102,
@@ -6832,7 +6832,7 @@
     {
         "tarih": "2026-06-03",
         "fon_kodu": "GZZ",
-        "fon_unvani": "GARANTİ PORTFÖY FİNANS SEKTÖRÜ DEĞİŞKEN FON",
+        "fon_unvani": "GARANTİ PORTFÖY FİNANSAL TEKNOLOJİLER DEĞİŞKEN FON",
         "tip": "YAT",
         "fiyat": 6.505766,
         "degisim": 1.0018,
@@ -8836,7 +8836,7 @@
         "tip": "YAT",
         "fiyat": 7.68373,
         "degisim": 0.5881,
-        "portfoy_buyuklugu": 1025918096.27,
+        "portfoy_buyuklugu": 1025918097.11,
         "kisi_sayisi": 6912
     },
     {
@@ -9354,9 +9354,9 @@
         "fon_kodu": "ITL",
         "fon_unvani": "İŞ PORTFÖY ÖPY DELTA SERBEST (TL) ÖZEL FON",
         "tip": "YAT",
-        "fiyat": 4.167333,
+        "fiyat": 4.167281,
         "degisim": 0,
-        "portfoy_buyuklugu": 4276800868.96,
+        "portfoy_buyuklugu": 4276747314.07,
         "kisi_sayisi": 1
     },
     {
