@@ -5244,9 +5244,9 @@
         "fon_kodu": "GBG",
         "fon_unvani": "INVEO PORTFÖY G-20 ÜLKELERİ YABANCI HİSSE SENEDİ FONU",
         "tip": "YAT",
-        "fiyat": 0.579827,
-        "degisim": -0.2373,
-        "portfoy_buyuklugu": 202694632.93,
+        "fiyat": 0.580485,
+        "degisim": -0.1241,
+        "portfoy_buyuklugu": 202924816.65,
         "kisi_sayisi": 3767
     },
     {
@@ -5614,9 +5614,9 @@
         "fon_kodu": "GJB",
         "fon_unvani": "INVEO PORTFÖY BİRİNCİ FON SEPETİ FONU",
         "tip": "YAT",
-        "fiyat": 10.808894,
-        "degisim": -0.8872,
-        "portfoy_buyuklugu": 83448844.38,
+        "fiyat": 10.810892,
+        "degisim": -0.8689,
+        "portfoy_buyuklugu": 83464267.4,
         "kisi_sayisi": 1050
     },
     {
@@ -5864,9 +5864,9 @@
         "fon_kodu": "GMD",
         "fon_unvani": "GLOBAL MD PORTFÖY BİRİNCİ FON SEPETİ FONU",
         "tip": "YAT",
-        "fiyat": 2.710991,
-        "degisim": -0.3194,
-        "portfoy_buyuklugu": 3324346.95,
+        "fiyat": 2.710998,
+        "degisim": -0.3192,
+        "portfoy_buyuklugu": 3324356.09,
         "kisi_sayisi": 121
     },
     {
@@ -5964,9 +5964,9 @@
         "fon_kodu": "GNH",
         "fon_unvani": "GLOBAL MD PORTFÖY ALGORİTMİK MODEL HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 1.533594,
-        "degisim": -0.6133,
-        "portfoy_buyuklugu": 7624391.01,
+        "fiyat": 1.533639,
+        "degisim": -0.6104,
+        "portfoy_buyuklugu": 7624614.07,
         "kisi_sayisi": 205
     },
     {
@@ -9474,9 +9474,9 @@
         "fon_kodu": "IUH",
         "fon_unvani": "INVEO PORTFÖY DÖNÜŞTÜRÜCÜ TEKNOLOJİLER FON SEPETİ FONU",
         "tip": "YAT",
-        "fiyat": 6.188732,
-        "degisim": -0.6867,
-        "portfoy_buyuklugu": 15839532.69,
+        "fiyat": 6.190133,
+        "degisim": -0.6642,
+        "portfoy_buyuklugu": 15843116.71,
         "kisi_sayisi": 776
     },
     {
@@ -9644,9 +9644,9 @@
         "fon_kodu": "IYV",
         "fon_unvani": "İSTANBUL PORTFÖY AŞİYAN SERBEST FON",
         "tip": "YAT",
-        "fiyat": 1.171302,
+        "fiyat": 1.171241,
         "degisim": 0,
-        "portfoy_buyuklugu": 222491099.58,
+        "portfoy_buyuklugu": 220970938.3,
         "kisi_sayisi": 68
     },
     {
@@ -9664,9 +9664,9 @@
         "fon_kodu": "IZB",
         "fon_unvani": "İSTANBUL PORTFÖY BİRİNCİ FON SEPETİ SERBEST FON",
         "tip": "YAT",
-        "fiyat": 10.057952,
-        "degisim": -0.0303,
-        "portfoy_buyuklugu": 70608023.01,
+        "fiyat": 10.043305,
+        "degisim": -0.1759,
+        "portfoy_buyuklugu": 70505193.19,
         "kisi_sayisi": 39
     },
     {
