@@ -11862,7 +11862,7 @@
     {
         "tarih": "2026-06-22",
         "fon_kodu": "MTX",
-        "fon_unvani": "TEB PORTFÖY METAVERSE VE DİJİTAL TEKNOLOJİLER DEĞİŞKEN FON",
+        "fon_unvani": "TEB PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
         "tip": "YAT",
         "fiyat": 5.54791,
         "degisim": 0.2973,
@@ -14415,7 +14415,7 @@
         "fon_unvani": "PERFORM PORTFÖY HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 35.536641,
-        "degisim": 0,
+        "degisim": -1.1289,
         "portfoy_buyuklugu": 2369282940.98,
         "kisi_sayisi": 105
     },
