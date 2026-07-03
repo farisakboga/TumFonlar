@@ -2755,7 +2755,7 @@
         "fon_unvani": "DENİZ PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 2.79443,
-        "degisim": 0,
+        "degisim": -6.3451,
         "portfoy_buyuklugu": 454385566.35,
         "kisi_sayisi": 11
     },
@@ -2835,7 +2835,7 @@
         "fon_unvani": "DENİZ PORTFÖY İKİNCİ SERBEST FON",
         "tip": "YAT",
         "fiyat": 0.610976,
-        "degisim": 0,
+        "degisim": 0.4571,
         "portfoy_buyuklugu": 191544.69,
         "kisi_sayisi": 13
     },
@@ -2955,7 +2955,7 @@
         "fon_unvani": "DENİZ PORTFÖY ALİZE HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 0.875134,
-        "degisim": 0,
+        "degisim": 0.9177,
         "portfoy_buyuklugu": 108010.8,
         "kisi_sayisi": 13
     },
