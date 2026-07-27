@@ -7292,7 +7292,7 @@
     {
         "tarih": "2026-07-24",
         "fon_kodu": "HIM",
-        "fon_unvani": "HEDEF PORTFÖY İKİNCİ MUTLAK GETİRİ HEDEFLİ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
+        "fon_unvani": "HEDEF PORTFÖY BİRİNCİ İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 3.905405,
         "degisim": 0.2537,
@@ -7312,7 +7312,7 @@
     {
         "tarih": "2026-07-24",
         "fon_kodu": "HIS",
-        "fon_unvani": "HEDEF PORTFÖY İKİNCİ İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
+        "fon_unvani": "HEDEF PORTFÖY ÜÇÜNCÜ SERBEST FON",
         "tip": "YAT",
         "fiyat": 3.206895,
         "degisim": 0,
@@ -7872,7 +7872,7 @@
     {
         "tarih": "2026-07-24",
         "fon_kodu": "HVN",
-        "fon_unvani": "HEDEF PORTFÖY MUTLAK GETİRİ HEDEFLİ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
+        "fon_unvani": "HEDEF PORTFÖY DÖRDÜNCÜ SERBEST FON",
         "tip": "YAT",
         "fiyat": 5.823111,
         "degisim": 0,
