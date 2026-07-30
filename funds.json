@@ -8725,7 +8725,7 @@
         "fon_unvani": "İSTANBUL PORTFÖY HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON )",
         "tip": "YAT",
         "fiyat": 9.942677,
-        "degisim": 0,
+        "degisim": -1.3696,
         "portfoy_buyuklugu": 109384832.01,
         "kisi_sayisi": 30
     },
@@ -9675,7 +9675,7 @@
         "fon_unvani": "İSTANBUL PORTFÖY AŞİYAN SERBEST FON",
         "tip": "YAT",
         "fiyat": 1.093252,
-        "degisim": 0,
+        "degisim": -0.1935,
         "portfoy_buyuklugu": 191300359.42,
         "kisi_sayisi": 65
     },
