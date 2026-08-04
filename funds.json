@@ -14905,7 +14905,7 @@
         "fon_unvani": "PERFORM PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 1.550008,
-        "degisim": 0,
+        "degisim": 0.9409,
         "portfoy_buyuklugu": 356507090.35,
         "kisi_sayisi": 25
     },
@@ -17552,7 +17552,7 @@
     {
         "tarih": "2026-08-03",
         "fon_kodu": "TPC",
-        "fon_unvani": "TEB PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "fon_unvani": "TEB PORTFÖY KIYMETLİ MADENLER FON SEPETİ FONU",
         "tip": "YAT",
         "fiyat": 11.991983,
         "degisim": -0.5975,
