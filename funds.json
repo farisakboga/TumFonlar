@@ -8132,7 +8132,7 @@
     {
         "tarih": "2026-08-04",
         "fon_kodu": "IBK",
-        "fon_unvani": "İŞ PORTFÖY MAXİMUM KART KISA VADELİ BORÇLANMA ARAÇLARI (TL) FONU",
+        "fon_unvani": "İŞ PORTFÖY ÜÇÜNCÜ KISA VADELİ BORÇLANMA ARAÇLARI (TL) FONU",
         "tip": "YAT",
         "fiyat": 0.133938,
         "degisim": 0,
@@ -14892,7 +14892,7 @@
     {
         "tarih": "2026-08-04",
         "fon_kodu": "PUH",
-        "fon_unvani": "PERFORM PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
+        "fon_unvani": "PERFORM PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 1.554443,
         "degisim": 0.2861,
@@ -20422,7 +20422,7 @@
     {
         "tarih": "2026-08-04",
         "fon_kodu": "AEN",
-        "fon_unvani": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. İKİNCİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "fon_unvani": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. ÖZEL SEKTÖR BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
         "fiyat": 0.153972,
         "degisim": 0.0682,
