@@ -4735,7 +4735,7 @@
         "fon_unvani": "AZİMUT PORTFÖY MAB SERBEST FON",
         "tip": "YAT",
         "fiyat": 32.330267,
-        "degisim": 0,
+        "degisim": -0.2934,
         "portfoy_buyuklugu": 528477714.49,
         "kisi_sayisi": 2
     },
@@ -12555,7 +12555,7 @@
         "fon_unvani": "AZİMUT PORTFÖY AVŞAR HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 5.528891,
-        "degisim": 0,
+        "degisim": -0.8777,
         "portfoy_buyuklugu": 3046221152.14,
         "kisi_sayisi": 1
     },
