@@ -1962,7 +1962,7 @@
     {
         "tarih": "2026-08-14",
         "fon_kodu": "BVZ",
-        "fon_unvani": "BV PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST (TL) FON",
+        "fon_unvani": "BV PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST FON",
         "tip": "YAT",
         "fiyat": 4.466604,
         "degisim": 0.1292,
@@ -22092,7 +22092,7 @@
     {
         "tarih": "2026-08-14",
         "fon_kodu": "FEO",
-        "fon_unvani": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. İSTANBUL PORTFÖY DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "fon_unvani": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
         "fiyat": 0.254463,
         "degisim": 0.2135,
