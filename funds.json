@@ -2405,7 +2405,7 @@
         "fon_unvani": "DESTEK PORTFÖY PARA PİYASASI FONU",
         "tip": "YAT",
         "fiyat": 1.013759,
-        "degisim": 0,
+        "degisim": 0.1151,
         "portfoy_buyuklugu": 40641583.46,
         "kisi_sayisi": 1
     },
@@ -19352,10 +19352,10 @@
     {
         "tarih": "2026-08-18",
         "fon_kodu": "YUI",
-        "fon_unvani": "YAPI KREDİ PORTFÖY PY BEYKOZ SERBEST ÖZEL FON",
+        "fon_unvani": "YAPI KREDİ PORTFÖY BEYKOZ SERBEST FON",
         "tip": "YAT",
         "fiyat": 1.920585,
-        "degisim": 0,
+        "degisim": -0.1233,
         "portfoy_buyuklugu": 920344605.03,
         "kisi_sayisi": 7
     },
