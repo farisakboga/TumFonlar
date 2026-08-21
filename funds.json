@@ -1215,7 +1215,7 @@
         "fon_unvani": "AK PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 1.973025,
-        "degisim": 0,
+        "degisim": 4.3401,
         "portfoy_buyuklugu": 38654422.18,
         "kisi_sayisi": 66
     },
@@ -18632,7 +18632,7 @@
     {
         "tarih": "2026-08-20",
         "fon_kodu": "YDH",
-        "fon_unvani": "AK PORTFÖY YEDİNCİ SERBEST FON",
+        "fon_unvani": "AK PORTFÖY İKİNCİ SERBEST ÖZEL FON",
         "tip": "YAT",
         "fiyat": 1.15849,
         "degisim": 0,
