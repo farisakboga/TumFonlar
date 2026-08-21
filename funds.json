@@ -7531,16 +7531,6 @@
     },
     {
         "tarih": "2026-08-20",
-        "fon_kodu": "HNC",
-        "fon_unvani": "HEDEF PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-        "tip": "YAT",
-        "fiyat": 1.384545,
-        "degisim": 2.0235,
-        "portfoy_buyuklugu": 5203965.74,
-        "kisi_sayisi": 98
-    },
-    {
-        "tarih": "2026-08-20",
         "fon_kodu": "HNS",
         "fon_unvani": "HSBC PORTFÖY KAR PAYI ÖDEYEN MAYIS 2029 SERBEST (DÖVİZ) FON",
         "tip": "YAT",
