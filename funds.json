@@ -6081,16 +6081,6 @@
     },
     {
         "tarih": "2026-08-28",
-        "fon_kodu": "GO2",
-        "fon_unvani": "ONE PORTFÖY KATILIM FON SEPETİ FONU",
-        "tip": "YAT",
-        "fiyat": 4.970396,
-        "degisim": -0.008,
-        "portfoy_buyuklugu": 25332562.28,
-        "kisi_sayisi": 435
-    },
-    {
-        "tarih": "2026-08-28",
         "fon_kodu": "GO3",
         "fon_unvani": "ONE PORTFÖY ÜÇÜNCÜ FON SEPETİ FONU",
         "tip": "YAT",
