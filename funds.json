@@ -12154,9 +12154,9 @@
         "fon_kodu": "NIG",
         "fon_unvani": "TRIVE PORTFÖY SERBEST FON",
         "tip": "YAT",
-        "fiyat": 1.223811,
+        "fiyat": 1.226677,
         "degisim": 0,
-        "portfoy_buyuklugu": 519662404.44,
+        "portfoy_buyuklugu": 520879598.23,
         "kisi_sayisi": 15
     },
     {
@@ -15332,7 +15332,7 @@
     {
         "tarih": "2026-09-03",
         "fon_kodu": "RDK",
-        "fon_unvani": "ROTA PORTFÖY ESİN HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
+        "fon_unvani": "ROTA PORTFÖY ESİN HİSSE SENEDİ ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 1.165458,
         "degisim": 0,
