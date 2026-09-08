@@ -8664,9 +8664,9 @@
         "fon_kodu": "IIS",
         "fon_unvani": "İSTANBUL PORTFÖY İKİNCİ SERBEST FON",
         "tip": "YAT",
-        "fiyat": 37.037666,
+        "fiyat": 37.037662,
         "degisim": 0,
-        "portfoy_buyuklugu": 1102808253.23,
+        "portfoy_buyuklugu": 1102808135.37,
         "kisi_sayisi": 136
     },
     {
@@ -10314,9 +10314,9 @@
         "fon_kodu": "KLS",
         "fon_unvani": "ALLBATROSS PORTFÖY KATILIM SERBEST (DÖVİZ) FON",
         "tip": "YAT",
-        "fiyat": 41.480473,
-        "degisim": -0.4654,
-        "portfoy_buyuklugu": 380832.22,
+        "fiyat": 41.562267,
+        "degisim": -0.2691,
+        "portfoy_buyuklugu": 381583.17,
         "kisi_sayisi": 2
     },
     {
@@ -15044,9 +15044,9 @@
         "fon_kodu": "PYH",
         "fon_unvani": "AZİMUT PORTFÖY 10.0 KATILIM SERBEST FON",
         "tip": "YAT",
-        "fiyat": 6.536699,
+        "fiyat": 6.536192,
         "degisim": 0,
-        "portfoy_buyuklugu": 4038977855.5,
+        "portfoy_buyuklugu": 4038665119.26,
         "kisi_sayisi": 11
     },
     {
@@ -15234,9 +15234,9 @@
         "fon_kodu": "RBP",
         "fon_unvani": "RE-PIE PORTFÖY BİRİNCİ PARA PİYASASI (TL) FONU",
         "tip": "YAT",
-        "fiyat": 2.310512,
-        "degisim": 0.2902,
-        "portfoy_buyuklugu": 2265694074.02,
+        "fiyat": 2.310497,
+        "degisim": 0.2895,
+        "portfoy_buyuklugu": 2265679675.09,
         "kisi_sayisi": 1150
     },
     {
