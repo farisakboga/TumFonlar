@@ -3011,16 +3011,6 @@
     },
     {
         "tarih": "2026-09-10",
-        "fon_kodu": "DMR",
-        "fon_unvani": "ZİRAAT PORTFÖY DEMİRAY SERBEST (DÖVİZ) ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 59.793744,
-        "degisim": 0,
-        "portfoy_buyuklugu": 17726999621.59,
-        "kisi_sayisi": 1
-    },
-    {
-        "tarih": "2026-09-10",
         "fon_kodu": "DMV",
         "fon_unvani": "DENİZ PORTFÖY SMART SERBEST (DÖVİZ) ÖZEL FON",
         "tip": "YAT",
@@ -19791,16 +19781,6 @@
     },
     {
         "tarih": "2026-09-10",
-        "fon_kodu": "ZCF",
-        "fon_unvani": "ZİRAAT PORTFÖY MKA SERBEST (TL) ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 4.211662,
-        "degisim": 0,
-        "portfoy_buyuklugu": 1941568434.4,
-        "kisi_sayisi": 1
-    },
-    {
-        "tarih": "2026-09-10",
         "fon_kodu": "ZCG",
         "fon_unvani": "ZİRAAT PORTFÖY DOKUZUNCU SERBEST (TL) FON",
         "tip": "YAT",
@@ -19878,16 +19858,6 @@
         "degisim": -0.1945,
         "portfoy_buyuklugu": 1042751682.17,
         "kisi_sayisi": 15109
-    },
-    {
-        "tarih": "2026-09-10",
-        "fon_kodu": "ZFZ",
-        "fon_unvani": "ZİRAAT PORTFÖY ANKARA SERBEST (DÖVİZ) ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 71.436851,
-        "degisim": 0,
-        "portfoy_buyuklugu": 22961740124.56,
-        "kisi_sayisi": 3
     },
     {
         "tarih": "2026-09-10",
@@ -19991,16 +19961,6 @@
     },
     {
         "tarih": "2026-09-10",
-        "fon_kodu": "ZKK",
-        "fon_unvani": "ZİRAAT PORTFÖY ESSA KATILIM SERBEST (DÖVİZ-AVRO) ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 25.620509,
-        "degisim": 0,
-        "portfoy_buyuklugu": 2399808404.15,
-        "kisi_sayisi": 1
-    },
-    {
-        "tarih": "2026-09-10",
         "fon_kodu": "ZLB",
         "fon_unvani": "TEB PORTFÖY TEB ÖZEL BANKACILIK SERBEST (DÖVİZ) ÖZEL FON",
         "tip": "YAT",
@@ -20058,16 +20018,6 @@
         "degisim": 0.8259,
         "portfoy_buyuklugu": 197933103.73,
         "kisi_sayisi": 2811
-    },
-    {
-        "tarih": "2026-09-10",
-        "fon_kodu": "ZNF",
-        "fon_unvani": "ZİRAAT PORTFÖY BDEM SERBEST (DÖVİZ-AVRO) ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 56.158758,
-        "degisim": 0,
-        "portfoy_buyuklugu": 854726081.43,
-        "kisi_sayisi": 1
     },
     {
         "tarih": "2026-09-10",
@@ -20308,16 +20258,6 @@
         "degisim": 0.7434,
         "portfoy_buyuklugu": 51610766.33,
         "kisi_sayisi": 912
-    },
-    {
-        "tarih": "2026-09-10",
-        "fon_kodu": "ZSK",
-        "fon_unvani": "ZİRAAT PORTFÖY SSA KATILIM SERBEST (DÖVİZ) ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 59.42312,
-        "degisim": 0,
-        "portfoy_buyuklugu": 2586179159.27,
-        "kisi_sayisi": 1
     },
     {
         "tarih": "2026-09-10",
