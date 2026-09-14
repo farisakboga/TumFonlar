@@ -14075,7 +14075,7 @@
         "fon_unvani": "PİRAMİT PORTFÖY BİST 50 DIŞI ŞİRKETLER HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 1.404245,
-        "degisim": 0,
+        "degisim": 9.6197,
         "portfoy_buyuklugu": 412871346.27,
         "kisi_sayisi": 12
     },
@@ -18262,7 +18262,7 @@
     {
         "tarih": "2026-09-11",
         "fon_kodu": "VCD",
-        "fon_unvani": "AZİMUT PORTFÖY İKİNCİ SERBEST FON",
+        "fon_unvani": "AZİMUT PORTFÖY PARA PİYASASI KATILIM SERBEST FON",
         "tip": "YAT",
         "fiyat": 6.495665,
         "degisim": 0,
