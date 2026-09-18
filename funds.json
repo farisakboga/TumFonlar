@@ -17474,9 +17474,9 @@
         "fon_kodu": "TMV",
         "fon_unvani": "TERA PORTFÖY ALGORİTMİK STRATEJİLER SERBEST FON",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 10.308559,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 36527550680.08,
         "kisi_sayisi": 15148
     },
     {
@@ -17754,9 +17754,9 @@
         "fon_kodu": "TRU",
         "fon_unvani": "TERA PORTFÖY KATILIM SERBEST (DÖVİZ) FON",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.542909,
+        "degisim": 0.1201,
+        "portfoy_buyuklugu": 254173600.79,
         "kisi_sayisi": 306
     },
     {
