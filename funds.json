@@ -2706,7 +2706,7 @@
         "tip": "YAT",
         "fiyat": 4.695444,
         "degisim": -22.8444,
-        "portfoy_buyuklugu": 10613073658.54,
+        "portfoy_buyuklugu": 10613074147.6,
         "kisi_sayisi": 47638
     },
     {
@@ -9254,9 +9254,9 @@
         "fon_kodu": "IPP",
         "fon_unvani": "PERFORM PORTFÖY BIRINCI SERBEST FON",
         "tip": "YAT",
-        "fiyat": 0.18502,
+        "fiyat": 0.185107,
         "degisim": 0,
-        "portfoy_buyuklugu": 7047016908.1,
+        "portfoy_buyuklugu": 7050319571.02,
         "kisi_sayisi": 160
     },
     {
@@ -23042,7 +23042,7 @@
     {
         "tarih": "2026-09-18",
         "fon_kodu": "HSR",
-        "fon_unvani": "ALLİANZ YAŞAM VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "fon_unvani": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
         "fiyat": 0.012007,
         "degisim": 5.5746,
@@ -24332,7 +24332,7 @@
     {
         "tarih": "2026-09-18",
         "fon_kodu": "YZD",
-        "fon_unvani": "ALLİANZ YAŞAM VE EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+        "fon_unvani": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ FON SEPETİ EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
         "fiyat": 0.066071,
         "degisim": 0.4974,
