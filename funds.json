@@ -17561,16 +17561,6 @@
     },
     {
         "tarih": "2026-09-21",
-        "fon_kodu": "TNR",
-        "fon_unvani": "TUNA PORTFÖY ÖPY PARA PİYASASI ÖZEL FONU",
-        "tip": "YAT",
-        "fiyat": 1.002121,
-        "degisim": 0,
-        "portfoy_buyuklugu": 55117.64,
-        "kisi_sayisi": 15
-    },
-    {
-        "tarih": "2026-09-21",
         "fon_kodu": "TNS",
         "fon_unvani": "TACİRLER PORTFÖY NAR SERBEST FON",
         "tip": "YAT",
