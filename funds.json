@@ -6954,9 +6954,9 @@
         "fon_kodu": "HAT",
         "fon_unvani": "HEDEF PORTFÖY ATLAS İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.874997,
+        "degisim": 0.2171,
+        "portfoy_buyuklugu": 2728926.77,
         "kisi_sayisi": 73
     },
     {
@@ -7124,9 +7124,9 @@
         "fon_kodu": "HEH",
         "fon_unvani": "HEDEF PORTFÖY ALGO EVEREST İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 3.387183,
+        "degisim": 0.372,
+        "portfoy_buyuklugu": 372020307.96,
         "kisi_sayisi": 1316
     },
     {
@@ -7214,9 +7214,9 @@
         "fon_kodu": "HGJ",
         "fon_unvani": "HEDEF PORTFÖY GÜNEY HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 4.31219,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 470446737.91,
         "kisi_sayisi": 12
     },
     {
@@ -7414,9 +7414,9 @@
         "fon_kodu": "HKP",
         "fon_unvani": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 5.538913,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 133961874.09,
         "kisi_sayisi": 65
     },
     {
@@ -7544,9 +7544,9 @@
         "fon_kodu": "HMV",
         "fon_unvani": "HEDEF PORTFÖY MAVİ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 10.964735,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 9728291790.97,
         "kisi_sayisi": 13
     },
     {
@@ -7614,9 +7614,9 @@
         "fon_kodu": "HPF",
         "fon_unvani": "HEDEF PORTFÖY KUZEY HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 8.238539,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 355485709.16,
         "kisi_sayisi": 12
     },
     {
@@ -9714,9 +9714,9 @@
         "fon_kodu": "IZB",
         "fon_unvani": "İSTANBUL PORTFÖY BİRİNCİ FON SEPETİ SERBEST FON",
         "tip": "YAT",
-        "fiyat": 10.349616,
-        "degisim": -2.7258,
-        "portfoy_buyuklugu": 172120567.72,
+        "fiyat": 10.396975,
+        "degisim": -2.2806,
+        "portfoy_buyuklugu": 172908165.9,
         "kisi_sayisi": 64
     },
     {
@@ -14324,9 +14324,9 @@
         "fon_kodu": "PKZ",
         "fon_unvani": "PUSULA PORTFÖY KUZEY HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 3.369125,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 14346745203.03,
         "kisi_sayisi": 17
     },
     {
@@ -17764,9 +17764,9 @@
         "fon_kodu": "TRU",
         "fon_unvani": "TERA PORTFÖY KATILIM SERBEST (DÖVİZ) FON",
         "tip": "YAT",
-        "fiyat": 1.546098,
-        "degisim": 0.2189,
-        "portfoy_buyuklugu": 310663061.07,
+        "fiyat": 1.54613,
+        "degisim": 0.221,
+        "portfoy_buyuklugu": 310669429.46,
         "kisi_sayisi": 277
     },
     {
