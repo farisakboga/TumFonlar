@@ -10654,9 +10654,9 @@
         "fon_kodu": "KPS",
         "fon_unvani": "QNB PORTFÖY KAR PAYI ÖDEYEN ONİKİNCİ SERBEST (DÖVİZ) FON",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 48.846676,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 23649118241.88,
         "kisi_sayisi": 3262
     },
     {
@@ -11596,7 +11596,7 @@
         "tip": "YAT",
         "fiyat": 0.7652,
         "degisim": 0,
-        "portfoy_buyuklugu": 1482942312.46,
+        "portfoy_buyuklugu": 1482942322.53,
         "kisi_sayisi": 17
     },
     {
