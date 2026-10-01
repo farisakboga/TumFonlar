@@ -18982,10 +18982,10 @@
     {
         "tarih": "2026-09-30",
         "fon_kodu": "YLR",
-        "fon_unvani": "YAPI KREDİ PORTFÖY AKATLAR SERBEST (DÖVİZ) ÖZEL FON",
+        "fon_unvani": "YAPI KREDİ PORTFÖY AKATLAR KAR PAYI ÖDEYEN SERBEST (DÖVİZ) FON",
         "tip": "YAT",
         "fiyat": 2.224075,
-        "degisim": 0,
+        "degisim": -0.0035,
         "portfoy_buyuklugu": 10893.52,
         "kisi_sayisi": 4
     },
@@ -20972,7 +20972,7 @@
     {
         "tarih": "2026-09-30",
         "fon_kodu": "ALS",
-        "fon_unvani": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "fon_unvani": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. İKİNCİ KARMA EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
         "fiyat": 1.051658,
         "degisim": -0.2053,
@@ -21162,7 +21162,7 @@
     {
         "tarih": "2026-09-30",
         "fon_kodu": "AUA",
-        "fon_unvani": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. FON SEPETİ EMEKLİLİK YATIRIM FONU",
+        "fon_unvani": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
         "fiyat": 0.177681,
         "degisim": 0.0975,
