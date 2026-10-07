@@ -104,9 +104,9 @@
         "fon_kodu": "AC5",
         "fon_unvani": "PARDUS PORTFÖY İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 3.903155,
-        "degisim": 0.3701,
-        "portfoy_buyuklugu": 24161530.71,
+        "fiyat": 3.903153,
+        "degisim": 0.37,
+        "portfoy_buyuklugu": 24161518.95,
         "kisi_sayisi": 142
     },
     {
@@ -134,9 +134,9 @@
         "fon_kodu": "AC8",
         "fon_unvani": "PARDUS PORTFÖY İKİNCİ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 78.250751,
+        "fiyat": 78.250732,
         "degisim": 0,
-        "portfoy_buyuklugu": 1184991585.14,
+        "portfoy_buyuklugu": 1184991291.25,
         "kisi_sayisi": 96
     },
     {
@@ -394,9 +394,9 @@
         "fon_kodu": "AJ1",
         "fon_unvani": "A1 CAPİTAL PORTFÖY İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 1.384113,
+        "fiyat": 1.384112,
         "degisim": 0.4691,
-        "portfoy_buyuklugu": 10474464.86,
+        "portfoy_buyuklugu": 10474459.29,
         "kisi_sayisi": 81
     },
     {
@@ -1704,9 +1704,9 @@
         "fon_kodu": "BST",
         "fon_unvani": "PARDUS PORTFÖY BANKACILIK SEKTÖRÜ DIŞI ŞİRKETLER HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 10.30411,
-        "degisim": 0.0617,
-        "portfoy_buyuklugu": 35354928.08,
+        "fiyat": 10.304107,
+        "degisim": 0.0616,
+        "portfoy_buyuklugu": 35354916.82,
         "kisi_sayisi": 525
     },
     {
@@ -8024,9 +8024,9 @@
         "fon_kodu": "IAU",
         "fon_unvani": "PARDUS PORTFÖY İKİNCİ İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 2.756335,
+        "fiyat": 2.756334,
         "degisim": 0.3709,
-        "portfoy_buyuklugu": 19554010.38,
+        "portfoy_buyuklugu": 19554005.28,
         "kisi_sayisi": 188
     },
     {
@@ -10646,7 +10646,7 @@
         "tip": "YAT",
         "fiyat": 1.393789,
         "degisim": 0,
-        "portfoy_buyuklugu": 1816280582.2,
+        "portfoy_buyuklugu": 1816280051.47,
         "kisi_sayisi": 41
     },
     {
@@ -13894,9 +13894,9 @@
         "fon_kodu": "PDH",
         "fon_unvani": "PARDUS PORTFÖY DOĞU HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 13.411382,
+        "fiyat": 13.411378,
         "degisim": 0,
-        "portfoy_buyuklugu": 3762642102.74,
+        "portfoy_buyuklugu": 3762640982.71,
         "kisi_sayisi": 78
     },
     {
@@ -13964,9 +13964,9 @@
         "fon_kodu": "PGE",
         "fon_unvani": "PARDUS PORTFÖY GÜNEY HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 23.69858,
+        "fiyat": 23.698569,
         "degisim": 0,
-        "portfoy_buyuklugu": 9570135822.02,
+        "portfoy_buyuklugu": 9570131646.57,
         "kisi_sayisi": 45
     },
     {
@@ -14244,9 +14244,9 @@
         "fon_kodu": "PKU",
         "fon_unvani": "PARDUS PORTFÖY KUZEY HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 4.598015,
+        "fiyat": 4.598014,
         "degisim": 0,
-        "portfoy_buyuklugu": 2509138577.4,
+        "portfoy_buyuklugu": 2509138440.1,
         "kisi_sayisi": 45
     },
     {
@@ -14344,9 +14344,9 @@
         "fon_kodu": "PO7",
         "fon_unvani": "PARDUS PORTFÖY ONYEDİNCİ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 1.080391,
+        "fiyat": 1.08039,
         "degisim": 0,
-        "portfoy_buyuklugu": 1635146062.28,
+        "portfoy_buyuklugu": 1635145434.17,
         "kisi_sayisi": 43
     },
     {
@@ -14436,7 +14436,7 @@
         "tip": "YAT",
         "fiyat": 1.610865,
         "degisim": 0,
-        "portfoy_buyuklugu": 4258020987.91,
+        "portfoy_buyuklugu": 4258019954.64,
         "kisi_sayisi": 73
     },
     {
@@ -16116,7 +16116,7 @@
         "tip": "YAT",
         "fiyat": 0.091455,
         "degisim": 0,
-        "portfoy_buyuklugu": 378576793.29,
+        "portfoy_buyuklugu": 378576698.65,
         "kisi_sayisi": 46
     },
     {
@@ -23714,9 +23714,9 @@
         "fon_kodu": "PRC",
         "fon_unvani": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
-        "fiyat": 0.131675,
+        "fiyat": 0.096516,
         "degisim": 0,
-        "portfoy_buyuklugu": 94953339.71,
+        "portfoy_buyuklugu": 69599687.78,
         "kisi_sayisi": 11665
     },
     {
