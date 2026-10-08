@@ -5671,16 +5671,6 @@
     },
     {
         "tarih": "2026-10-07",
-        "fon_kodu": "GKE",
-        "fon_unvani": "GARANTİ PORTFÖY KAR PAYI ÖDEYEN EKİM 2025 SERBEST (DÖVİZ) FON",
-        "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0.01,
-        "kisi_sayisi": 0
-    },
-    {
-        "tarih": "2026-10-07",
         "fon_kodu": "GKF",
         "fon_unvani": "GLOBAL MD PORTFÖY KATILIM FONU",
         "tip": "YAT",
@@ -24384,9 +24374,9 @@
         "fon_kodu": "EOZ",
         "fon_unvani": "İŞ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
         "tip": "BYF",
-        "fiyat": 42.593669,
+        "fiyat": 24.20498,
         "degisim": -0.6163,
-        "portfoy_buyuklugu": 579273903.85,
+        "portfoy_buyuklugu": 329187733.32,
         "kisi_sayisi": 0
     },
     {
