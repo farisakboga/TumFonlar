@@ -114,9 +114,9 @@
         "fon_kodu": "AC6",
         "fon_unvani": "PARDUS PORTFÖY DÖRDÜNCÜ SERBEST (DÖVİZ) FON",
         "tip": "YAT",
-        "fiyat": 55.679322,
-        "degisim": 0.7502,
-        "portfoy_buyuklugu": 72503775.06,
+        "fiyat": 55.409877,
+        "degisim": 0.2627,
+        "portfoy_buyuklugu": 72152913.51,
         "kisi_sayisi": 81
     },
     {
@@ -3514,9 +3514,9 @@
         "fon_kodu": "DUH",
         "fon_unvani": "HEDEF PORTFÖY UFUK HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.18712,
+        "degisim": 1.2576,
+        "portfoy_buyuklugu": 138146328.95,
         "kisi_sayisi": 356
     },
     {
@@ -4604,9 +4604,9 @@
         "fon_kodu": "FNT",
         "fon_unvani": "HEDEF PORTFÖY MODEL HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.842589,
+        "degisim": -1.8257,
+        "portfoy_buyuklugu": 263058304.47,
         "kisi_sayisi": 1547
     },
     {
@@ -6874,9 +6874,9 @@
         "fon_kodu": "HAT",
         "fon_unvani": "HEDEF PORTFÖY ATLAS İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.867182,
+        "degisim": 0.0109,
+        "portfoy_buyuklugu": 2717552.2,
         "kisi_sayisi": 73
     },
     {
@@ -6944,9 +6944,9 @@
         "fon_kodu": "HBV",
         "fon_unvani": "HEDEF PORTFÖY DORUK HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 18.720479,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 1077365238.58,
         "kisi_sayisi": 17
     },
     {
@@ -6964,9 +6964,9 @@
         "fon_kodu": "HDA",
         "fon_unvani": "HEDEF PORTFÖY DÖRDÜNCÜ İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 3.231151,
+        "degisim": -0.1008,
+        "portfoy_buyuklugu": 78231365.35,
         "kisi_sayisi": 480
     },
     {
@@ -6994,9 +6994,9 @@
         "fon_kodu": "HDH",
         "fon_unvani": "HEDEF PORTFÖY DOĞU HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 1971.257793,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 5890887075.38,
         "kisi_sayisi": 16
     },
     {
@@ -7014,9 +7014,9 @@
         "fon_kodu": "HDK",
         "fon_unvani": "HEDEF PORTFÖY VEGA İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 3.087828,
+        "degisim": 0.0739,
+        "portfoy_buyuklugu": 11532670.7,
         "kisi_sayisi": 120
     },
     {
@@ -7044,9 +7044,9 @@
         "fon_kodu": "HEH",
         "fon_unvani": "HEDEF PORTFÖY ALGO EVEREST İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 3.419909,
+        "degisim": 0.1208,
+        "portfoy_buyuklugu": 375614687.9,
         "kisi_sayisi": 1316
     },
     {
@@ -7064,9 +7064,9 @@
         "fon_kodu": "HFI",
         "fon_unvani": "HEDEF PORTFÖY İKİNCİ KATILIM HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.61649,
+        "degisim": -0.1626,
+        "portfoy_buyuklugu": 55483326.95,
         "kisi_sayisi": 125
     },
     {
@@ -7124,9 +7124,9 @@
         "fon_kodu": "HGH",
         "fon_unvani": "HEDEF PORTFÖY GÜNEŞ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 1.696394,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 971092.22,
         "kisi_sayisi": 19
     },
     {
@@ -7234,9 +7234,9 @@
         "fon_kodu": "HIM",
         "fon_unvani": "HEDEF PORTFÖY BİRİNCİ İSTATİSTİKSEL ARBİTRAJ HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 4.162209,
+        "degisim": 0.155,
+        "portfoy_buyuklugu": 281035440.29,
         "kisi_sayisi": 186
     },
     {
@@ -7314,9 +7314,9 @@
         "fon_kodu": "HKJ",
         "fon_unvani": "HEDEF PORTFÖY PARA PİYASASI SERBEST FON",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.462636,
+        "degisim": 0.0333,
+        "portfoy_buyuklugu": 7266265551.44,
         "kisi_sayisi": 1813
     },
     {
@@ -7324,9 +7324,9 @@
         "fon_kodu": "HKM",
         "fon_unvani": "HEDEF PORTFÖY BAŞAK HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 2.905517,
+        "degisim": -1.8459,
+        "portfoy_buyuklugu": 31359962.78,
         "kisi_sayisi": 809
     },
     {
@@ -7334,9 +7334,9 @@
         "fon_kodu": "HKP",
         "fon_unvani": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 5.367342,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 129812323.48,
         "kisi_sayisi": 65
     },
     {
@@ -7384,9 +7384,9 @@
         "fon_kodu": "HLR",
         "fon_unvani": "HEDEF PORTFÖY ADA HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 26.363546,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 541075804.22,
         "kisi_sayisi": 13
     },
     {
@@ -7424,9 +7424,9 @@
         "fon_kodu": "HMK",
         "fon_unvani": "HEDEF PORTFÖY EGE HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 223.868583,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 50603030.72,
         "kisi_sayisi": 37
     },
     {
@@ -7464,9 +7464,9 @@
         "fon_kodu": "HMV",
         "fon_unvani": "HEDEF PORTFÖY MAVİ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 1.282068,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 1137495210.1,
         "kisi_sayisi": 13
     },
     {
@@ -7534,9 +7534,9 @@
         "fon_kodu": "HPF",
         "fon_unvani": "HEDEF PORTFÖY KUZEY HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 3.707161,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 159960732.27,
         "kisi_sayisi": 12
     },
     {
@@ -7544,9 +7544,9 @@
         "fon_kodu": "HPH",
         "fon_unvani": "HEDEF PORTFÖY PARA PİYASASI KATILIM FONU",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 2.463114,
+        "degisim": 0.0939,
+        "portfoy_buyuklugu": 4065594940.91,
         "kisi_sayisi": 6593
     },
     {
@@ -7554,9 +7554,9 @@
         "fon_kodu": "HPI",
         "fon_unvani": "HEDEF PORTFÖY İDEAL HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 1.181605,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 40663861.5,
         "kisi_sayisi": 14
     },
     {
@@ -7574,9 +7574,9 @@
         "fon_kodu": "HPL",
         "fon_unvani": "HEDEF PORTFÖY ÇINAR HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 0.65882,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 192253562.37,
         "kisi_sayisi": 24
     },
     {
@@ -7614,9 +7614,9 @@
         "fon_kodu": "HPZ",
         "fon_unvani": "HEDEF PORTFÖY ZEN HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 513.367786,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 4966319.96,
         "kisi_sayisi": 18
     },
     {
@@ -7754,9 +7754,9 @@
         "fon_kodu": "HVB",
         "fon_unvani": "HEDEF PORTFÖY PUSULA HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 0.242299,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 278917013.37,
         "kisi_sayisi": 13
     },
     {
@@ -7764,9 +7764,9 @@
         "fon_kodu": "HVC",
         "fon_unvani": "HEDEF PORTFÖY ROTA HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 22.700035,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 61919566.47,
         "kisi_sayisi": 16
     },
     {
@@ -7894,9 +7894,9 @@
         "fon_kodu": "HYV",
         "fon_unvani": "HEDEF PORTFÖY PARA PİYASASI (TL) FONU",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 6.639722,
+        "degisim": 0.0986,
+        "portfoy_buyuklugu": 6149353848.68,
         "kisi_sayisi": 6244
     },
     {
@@ -10674,9 +10674,9 @@
         "fon_kodu": "KSA",
         "fon_unvani": "HEDEF PORTFÖY KISA VADELİ SERBEST (TL) FON",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 4.300927,
+        "degisim": 0.046,
+        "portfoy_buyuklugu": 12716349724.56,
         "kisi_sayisi": 3896
     },
     {
@@ -12004,9 +12004,9 @@
         "fon_kodu": "NFK",
         "fon_unvani": "HEDEF PORTFÖY NEHİR HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 4.337035,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 1087592240.05,
         "kisi_sayisi": 60
     },
     {
@@ -13684,9 +13684,9 @@
         "fon_kodu": "PBH",
         "fon_unvani": "PUSULA PORTFÖY BİRİNCİ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 1.0032,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 2405968642.37,
         "kisi_sayisi": 12
     },
     {
@@ -13834,9 +13834,9 @@
         "fon_kodu": "PDG",
         "fon_unvani": "PUSULA PORTFÖY DOĞU HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 0.22554,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 118592492.08,
         "kisi_sayisi": 11
     },
     {
@@ -13924,9 +13924,9 @@
         "fon_kodu": "PGH",
         "fon_unvani": "PUSULA PORTFÖY GÜNEY HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 1.109367,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 1473598238.71,
         "kisi_sayisi": 12
     },
     {
@@ -13944,9 +13944,9 @@
         "fon_kodu": "PHB",
         "fon_unvani": "PUSULA PORTFÖY BEŞİNCİ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 0.43875,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 2309057338.18,
         "kisi_sayisi": 15
     },
     {
@@ -14104,9 +14104,9 @@
         "fon_kodu": "PKD",
         "fon_unvani": "PUSULA PORTFÖY İKİNCİ KATILIM HİSSE SENEDİ SERBEST FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 0.841362,
+        "degisim": -1.2558,
+        "portfoy_buyuklugu": 2497753.19,
         "kisi_sayisi": 91
     },
     {
@@ -14134,9 +14134,9 @@
         "fon_kodu": "PKM",
         "fon_unvani": "PUSULA PORTFÖY PARA PİYASASI KATILIM (TL) FONU",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.120518,
+        "degisim": 0.1577,
+        "portfoy_buyuklugu": 350044731.26,
         "kisi_sayisi": 348
     },
     {
@@ -14204,9 +14204,9 @@
         "fon_kodu": "PKZ",
         "fon_unvani": "PUSULA PORTFÖY KUZEY HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0,
+        "fiyat": 0.178459,
         "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "portfoy_buyuklugu": 759933105.06,
         "kisi_sayisi": 17
     },
     {
@@ -14274,9 +14274,9 @@
         "fon_kodu": "PNU",
         "fon_unvani": "PUSULA PORTFÖY İKİNCİ PARA PİYASASI (TL) FONU",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 1.2857,
+        "degisim": 0.0062,
+        "portfoy_buyuklugu": 7009400095.97,
         "kisi_sayisi": 20164
     },
     {
@@ -14634,9 +14634,9 @@
         "fon_kodu": "PRY",
         "fon_unvani": "PUSULA PORTFÖY PARA PİYASASI (TL) FONU",
         "tip": "YAT",
-        "fiyat": 0,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0,
+        "fiyat": 3.283806,
+        "degisim": 0.0057,
+        "portfoy_buyuklugu": 18896934724.06,
         "kisi_sayisi": 38751
     },
     {
