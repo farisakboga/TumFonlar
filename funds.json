@@ -6822,7 +6822,7 @@
     {
         "tarih": "2026-10-14",
         "fon_kodu": "HAE",
-        "fon_unvani": "HSBC PORTFÖY EKİM 2026 SERBEST (DÖVİZ) FON",
+        "fon_unvani": "HSBC PORTFÖY EKİM 2028 SERBEST (DÖVİZ) FON",
         "tip": "YAT",
         "fiyat": 57.98583,
         "degisim": 0,
@@ -16064,9 +16064,9 @@
         "fon_kodu": "SHU",
         "fon_unvani": "SPARTA PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
-        "fiyat": 0.001589,
-        "degisim": -99.8421,
-        "portfoy_buyuklugu": 4.18,
+        "fiyat": 0.826537,
+        "degisim": -17.8658,
+        "portfoy_buyuklugu": 2174.62,
         "kisi_sayisi": 2
     },
     {
