@@ -7921,16 +7921,6 @@
     },
     {
         "tarih": "2026-10-23",
-        "fon_kodu": "IAI",
-        "fon_unvani": "İŞ PORTFÖY TOROS HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
-        "tip": "YAT",
-        "fiyat": 44,
-        "degisim": 0,
-        "portfoy_buyuklugu": 0.44,
-        "kisi_sayisi": 1
-    },
-    {
-        "tarih": "2026-10-23",
         "fon_kodu": "IAJ",
         "fon_unvani": "INVEO PORTFÖY ALTINCI SERBEST FON",
         "tip": "YAT",
