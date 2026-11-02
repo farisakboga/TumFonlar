@@ -5192,7 +5192,7 @@
     {
         "tarih": "2026-10-30",
         "fon_kodu": "GAS",
-        "fon_unvani": "GARANTİ PORTFÖY ÜÇÜNCÜ SERBEST(DÖVİZ) FON",
+        "fon_unvani": "GARANTİ PORTFÖY ORTA VADELİ SERBEST (DÖVİZ) FON",
         "tip": "YAT",
         "fiyat": 0.330854,
         "degisim": 0,
@@ -6052,7 +6052,7 @@
     {
         "tarih": "2026-10-30",
         "fon_kodu": "GOF",
-        "fon_unvani": "GARANTİ PORTFÖY OTUZİKİNCİ SERBEST (DÖVİZ) FON",
+        "fon_unvani": "GARANTİ PORTFÖY AGRESİF SERBEST (DÖVİZ) FON",
         "tip": "YAT",
         "fiyat": 55.776505,
         "degisim": 0,
@@ -6112,7 +6112,7 @@
     {
         "tarih": "2026-10-30",
         "fon_kodu": "GP3",
-        "fon_unvani": "GARANTİ PORTFÖY ÜÇÜNCÜ SERBEST (DÖVİZ-AVRO) FON",
+        "fon_unvani": "GARANTİ PORTFÖY AGRESİF SERBEST (DÖVİZ-AVRO) FON",
         "tip": "YAT",
         "fiyat": 63.350514,
         "degisim": 0,
@@ -6142,7 +6142,7 @@
     {
         "tarih": "2026-10-30",
         "fon_kodu": "GPC",
-        "fon_unvani": "GARANTİ PORTFÖY İKİNCİ SERBEST ( DÖVİZ ) FON",
+        "fon_unvani": "GARANTİ PORTFÖY UZUN VADELİ SERBEST (DÖVİZ) FON",
         "tip": "YAT",
         "fiyat": 73.887532,
         "degisim": 0,
