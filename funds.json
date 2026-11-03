@@ -6321,16 +6321,6 @@
     },
     {
         "tarih": "2026-11-03",
-        "fon_kodu": "GSO",
-        "fon_unvani": "GARANTİ PORTFÖY ÖPY SERBEST ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 16.481192,
-        "degisim": 0,
-        "portfoy_buyuklugu": 4608127141.18,
-        "kisi_sayisi": 7
-    },
-    {
-        "tarih": "2026-11-03",
         "fon_kodu": "GSP",
         "fon_unvani": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
