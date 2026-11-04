@@ -51,6 +51,16 @@
     },
     {
         "tarih": "2026-11-04",
+        "fon_kodu": "ABS",
+        "fon_unvani": "AK PORTFÖY ÖPY MUTLAK GETİRİ HEDEFLİ SERBEST ÖZEL FON",
+        "tip": "YAT",
+        "fiyat": 5.736524,
+        "degisim": 0,
+        "portfoy_buyuklugu": 38451668487.41,
+        "kisi_sayisi": 12
+    },
+    {
+        "tarih": "2026-11-04",
         "fon_kodu": "ABU",
         "fon_unvani": "AK PORTFÖY BİREBİR BANKACILIK DEĞİŞKEN ÖZEL FON",
         "tip": "YAT",
