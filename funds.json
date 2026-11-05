@@ -7501,16 +7501,6 @@
     },
     {
         "tarih": "2026-11-05",
-        "fon_kodu": "HPC",
-        "fon_unvani": "ZİRAAT PORTFÖY HEDEF SERBEST ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 11.062111,
-        "degisim": 0,
-        "portfoy_buyuklugu": 102803787643.21,
-        "kisi_sayisi": 8
-    },
-    {
-        "tarih": "2026-11-05",
         "fon_kodu": "HPD",
         "fon_unvani": "HSBC PORTFÖY İKİNCİ DEĞİŞKEN FON",
         "tip": "YAT",
