@@ -13352,7 +13352,7 @@
     {
         "tarih": "2026-11-04",
         "fon_kodu": "OSH",
-        "fon_unvani": "OSMANLI PORTFÖY MİNERVA SERBEST FON",
+        "fon_unvani": "OSMANLI PORTFÖY KARADENİZ HİSSE SENEDİ SERBEST (TL) FON (HİSSE SENEDİ YOĞUN FON)",
         "tip": "YAT",
         "fiyat": 0.44258,
         "degisim": 0,
@@ -19588,16 +19588,6 @@
         "degisim": 0,
         "portfoy_buyuklugu": 595044757.08,
         "kisi_sayisi": 150
-    },
-    {
-        "tarih": "2026-11-04",
-        "fon_kodu": "ZCH",
-        "fon_unvani": "ZİRAAT PORTFÖY ODAK SERBEST ÖZEL FON",
-        "tip": "YAT",
-        "fiyat": 2.231055,
-        "degisim": 0,
-        "portfoy_buyuklugu": 8296103567.45,
-        "kisi_sayisi": 1
     },
     {
         "tarih": "2026-11-04",
