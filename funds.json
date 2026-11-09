@@ -9214,9 +9214,9 @@
         "fon_kodu": "IRV",
         "fon_unvani": "İSTANBUL PORTFÖY İSTATİSTİKSEL ARBİTRAJ SERBEST FON",
         "tip": "YAT",
-        "fiyat": 7.577591,
-        "degisim": 0.2889,
-        "portfoy_buyuklugu": 132778512.67,
+        "fiyat": 7.577471,
+        "degisim": 0.2873,
+        "portfoy_buyuklugu": 132776418.64,
         "kisi_sayisi": 49
     },
     {
@@ -9574,9 +9574,9 @@
         "fon_kodu": "IZB",
         "fon_unvani": "İSTANBUL PORTFÖY BİRİNCİ FON SEPETİ SERBEST FON",
         "tip": "YAT",
-        "fiyat": 8.689917,
-        "degisim": -0.0276,
-        "portfoy_buyuklugu": 117264500.75,
+        "fiyat": 8.712683,
+        "degisim": 0.2343,
+        "portfoy_buyuklugu": 117571702.17,
         "kisi_sayisi": 33
     },
     {
@@ -22104,9 +22104,9 @@
         "fon_kodu": "FIY",
         "fon_unvani": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
         "tip": "EMK",
-        "fiyat": 0.106493,
+        "fiyat": 0.106838,
         "degisim": 0,
-        "portfoy_buyuklugu": 296603043.86,
+        "portfoy_buyuklugu": 297565606.63,
         "kisi_sayisi": 40996
     },
     {
